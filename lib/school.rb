@@ -2,6 +2,6 @@
 class School
   attr_accessor :ROSTER
   ROSTER = []
-  def initialize
+  def initialize(something)
   end
 end
