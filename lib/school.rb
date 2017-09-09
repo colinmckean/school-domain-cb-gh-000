@@ -5,4 +5,7 @@ class School
   def initialize(something)
   @roster = {}
   end
+  def add_student(stuff)
+    
+  end
 end
