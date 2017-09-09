@@ -1,8 +1,8 @@
 # code here!
 class School
-  attr_accessor :ROSTER
+  attr_accessor :roster
 
   def initialize(something)
-  @ROSTER = []
+  roster = {}
   end
 end
