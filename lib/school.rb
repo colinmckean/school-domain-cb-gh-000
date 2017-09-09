@@ -6,6 +6,6 @@ class School
   @roster = {}
   end
   def add_student(stuff,stuffings)
-    @roster[stuff] = stuffings
+    @roster[stuffings] = stuff
   end
 end
